@@ -23,3 +23,4 @@ GET ```localhost:8000/api/v1/all?name=товар_1&vendor_code=111222&status=in 
 ```not produced```  
   
 ### Пример добавления товара через Postman:
+![Иллюстрация к проекту](https://github.com/georg220022/django_shops/blob/main/2022-12-12_17-08.png)
